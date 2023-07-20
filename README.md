@@ -46,3 +46,8 @@ I also love learning foreign languages and cultures especially about
 <br/>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JaeS-Lee&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<br/>
+<br/>
+
+![Jason Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeS-Lee&show_icons=true&theme=transparent)
