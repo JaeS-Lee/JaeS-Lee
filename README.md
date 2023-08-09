@@ -7,10 +7,7 @@
    <br/>
    <br/>
   
-  <h3>  :wave: Welcome my GitHub Profile ! :wave: </h3> 
-  <h3>  :wave: 私のGitHubプロフィールへようこそ ! :wave: </h3> 
-  <h3>  :wave: 欢迎您来我的GitHub简介 ! :wave: </h3> 
-  <h3>  :wave: ¡ Bienvenido a mi GitHub perfil ! :wave: </h3> 
+  <h3>  :wave: Welcome my GitHub Page ! :wave: </h3> 
 
    <br/>
    <br/>
