@@ -10,7 +10,7 @@
   <h3>  :wave: Welcome my GitHub Page ! :wave: </h3> 
   <h3>  :wave: 私のGitHubページへようこそ ! :wave: </h3> 
   <h3>  :wave: 欢迎你们来我的GitHub网页 ! :wave: </h3> 
-  <h3>  :wave: ¡ Bienvenido a mi Página de GitHub ! :wave: </h3> 
+  <h3>  :wave: ¡ Bienvenido a mi página de GitHub ! :wave: </h3> 
 
    <br/>
    <br/>
