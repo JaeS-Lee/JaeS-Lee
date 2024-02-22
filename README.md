@@ -31,7 +31,7 @@ I normally use
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
 
-I am interested in toxicology, statistics, machine learning, and deep learning 
+I am interested in toxicology, statistics, bioinformatics, chemoinformatics, machine learning, and deep learning. 
 
 I also love learning foreign languages and cultures especially about
 <br/>
@@ -40,6 +40,8 @@ I also love learning foreign languages and cultures especially about
   <img src="https://hatscripts.github.io/circle-flags/flags/jp.svg" width="48">
   <img src="https://hatscripts.github.io/circle-flags/flags/cn.svg" width="48">
   <img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="48">
+
+I love playing StarCraft2 or BlueArchive when I have free time.
 
 ---
 
