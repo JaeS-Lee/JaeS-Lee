@@ -27,8 +27,9 @@ I am a Ph.D student in veterinary toxicology.
 I normally use 
 <br/>
 <br/>
-  <img src="https://img.shields.io/badge/r-75AADB?style=for-the-badge&logo=rstudio&logoColor=white">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
 
 I am interested in toxicology, statistics, machine learning, and deep learning 
 
