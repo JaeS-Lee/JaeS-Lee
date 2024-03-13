@@ -22,7 +22,7 @@
 
 <h3> :computer: About Me : </h3> 
 
-I am a Ph.D student in veterinary toxicology.
+I am a Ph.D. student in veterinary toxicology.
 
 I normally use 
 <br/>
@@ -41,7 +41,7 @@ I also love learning foreign languages and cultures especially about
   <img src="https://hatscripts.github.io/circle-flags/flags/cn.svg" width="48">
   <img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="48">
 
-I love playing StarCraft2 or BlueArchive when I have free time.
+I love playing StarCraft2 and BlueArchive when I have free time.
 
 ---
 
