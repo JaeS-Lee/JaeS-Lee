@@ -22,7 +22,7 @@
 
 <h3> :computer: About Me : </h3> 
 
-I am a Ph.D. student in veterinary toxicology.
+I am a a researcher in National Research Center for Protozoan Diseases (NRCPD) in Obihiro University of Agriculture and Veterinary Medicine (OUAVM).
 
 I normally use 
 <br/>
@@ -31,7 +31,7 @@ I normally use
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
 
-I am interested in toxicology, statistics, bioinformatics, chemoinformatics, machine learning, and deep learning. 
+I am interested in environmental toxicology, statistics, bioinformatics, chemoinformatics, machine learning, and deep learning. 
 
 I also love learning foreign languages and cultures especially about
 <br/>
