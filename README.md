@@ -41,8 +41,6 @@ I also love learning foreign languages and cultures especially about
   <img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="48">
   <img src="https://hatscripts.github.io/circle-flags/flags/pt.svg" width="48">
 
-I love studying foreign languages & cultures and playing Blue Archive when I have free time.
-
 ---
 
 <h3> :smile: My stats : </h3> 
