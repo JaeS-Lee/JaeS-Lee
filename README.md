@@ -35,7 +35,7 @@ I am interested in environmental toxicology, statistics, bioinformatics, chemoin
 I also love learning foreign languages and cultures especially about
 <br/>
 <br/>
-  <img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="48">
+  <img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="48">
   <img src="https://hatscripts.github.io/circle-flags/flags/jp.svg" width="48">
   <img src="https://hatscripts.github.io/circle-flags/flags/cn.svg" width="48">
   <img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="48">
